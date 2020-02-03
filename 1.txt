@@ -1,0 +1,199 @@
+C:\Users\Admin>node -v
+v12.14.1
+
+C:\Users\Admin>npm
+
+Usage: npm <command>
+
+where <command> is one of:
+    access, adduser, audit, bin, bugs, c, cache, ci, cit,
+    clean-install, clean-install-test, completion, config,
+    create, ddp, dedupe, deprecate, dist-tag, docs, doctor,
+    edit, explore, fund, get, help, help-search, hook, i, init,
+    install, install-ci-test, install-test, it, link, list, ln,
+    login, logout, ls, org, outdated, owner, pack, ping, prefix,
+    profile, prune, publish, rb, rebuild, repo, restart, root,
+    run, run-script, s, se, search, set, shrinkwrap, star,
+    stars, start, stop, t, team, test, token, tst, un,
+    uninstall, unpublish, unstar, up, update, v, version, view,
+    whoami
+
+npm <command> -h  quick help on <command>
+npm -l            display full usage info
+npm help <term>   search for help on <term>
+npm help npm      involved overview
+
+Specify configs in the ini-formatted file:
+    C:\Users\Admin\.npmrc
+or on the command line via: npm <command> --key value
+Config info can be viewed via: npm help config
+
+npm@6.13.4 D:\programes\nodejs\node_modules\npm
+
+C:\Users\Admin>vue-cli
+'vue-cli' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+
+C:\Users\Admin>
+C:\Users\Admin>npm install -g @vue/cli
+npm WARN deprecated core-js@2.6.11: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+C:\Users\Admin\AppData\Roaming\npm\vue -> C:\Users\Admin\AppData\Roaming\npm\node_modules\@vue\cli\bin\vue.js
+
+> core-js@2.6.11 postinstall C:\Users\Admin\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\babel-polyfill\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+Thank you for using core-js ( https://github.com/zloirock/core-js ) for polyfilling JavaScript standard library!
+
+The project needs your help! Please consider supporting of core-js on Open Collective or Patreon:
+> https://opencollective.com/core-js
+> https://www.patreon.com/zloirock
+
+Also, the author of core-js ( https://github.com/zloirock ) is looking for a good job -)
+
+
+> core-js@2.6.11 postinstall C:\Users\Admin\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\babel-runtime\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js@3.6.4 postinstall C:\Users\Admin\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> @apollo/protobufjs@1.0.3 postinstall C:\Users\Admin\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\@apollo\protobufjs
+> node scripts/postinstall
+
+
+> nodemon@1.19.4 postinstall C:\Users\Admin\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\nodemon
+> node bin/postinstall || exit 0
+
+Love nodemon? You can now support the project via the open collective:
+ > https://opencollective.com/nodemon/donate
+
+
+> ejs@2.7.4 postinstall C:\Users\Admin\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\ejs
+> node ./postinstall.js
+
+Thank you for installing EJS: built with the Jake JavaScript build tool (https://jakejs.com/)
+
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules\@vue\cli\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ @vue/cli@4.1.2
+added 1115 packages from 635 contributors in 855.71s
+
+C:\Users\Admin>e:
+
+E:\>cd web-front
+
+E:\web-front>cd vuestudy
+
+E:\web-front\vuestudy>vue create vue-test
+?  Your connection to the default npm registry seems to be slow.
+   Use https://registry.npm.taobao.org for faster installation? Yes
+
+
+Vue CLI v4.1.2
+? Please pick a preset: default (babel, eslint)
+
+
+Vue CLI v4.1.2
+✨  Creating project in E:\web-front\vuestudy\vue-test.
+⚙  Installing CLI plugins. This might take a while...
+
+
+
+> yorkie@2.0.0 install E:\web-front\vuestudy\vue-test\node_modules\yorkie
+> node bin/install.js
+
+setting up Git hooks
+can't find .git directory, skipping Git hooks installation
+
+> core-js@3.6.4 postinstall E:\web-front\vuestudy\vue-test\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> ejs@2.7.4 postinstall E:\web-front\vuestudy\vue-test\node_modules\ejs
+> node ./postinstall.js
+
+added 1131 packages from 826 contributors in 239.074s
+
+34 packages are looking for funding
+  run `npm fund` for details
+
+🚀  Invoking generators...
+📦  Installing additional dependencies...
+
+added 59 packages from 53 contributors in 67.611s
+
+34 packages are looking for funding
+  run `npm fund` for details
+
+⚓  Running completion hooks...
+
+📄  Generating README.md...
+
+🎉  Successfully created project vue-test.
+👉  Get started with the following commands:
+
+ $ cd vue-test
+ $ npm run serve
+
+
+E:\web-front\vuestudy>
+E:\web-front\vuestudy>
+E:\web-front\vuestudy>dir
+ 驱动器 E 中的卷是 新加卷
+ 卷的序列号是 163B-575D
+
+ E:\web-front\vuestudy 的目录
+
+2020/01/28  21:35    <DIR>          .
+2020/01/28  21:35    <DIR>          ..
+2020/01/28  21:41    <DIR>          vue-test
+               0 个文件              0 字节
+               3 个目录 121,918,750,720 可用字节
+
+E:\web-front\vuestudy>cd vue-test
+
+E:\web-front\vuestudy\vue-test>dir
+ 驱动器 E 中的卷是 新加卷
+ 卷的序列号是 163B-575D
+
+ E:\web-front\vuestudy\vue-test 的目录
+
+2020/01/28  21:41    <DIR>          .
+2020/01/28  21:41    <DIR>          ..
+2020/01/28  21:40               214 .gitignore
+2020/01/28  21:40                73 babel.config.js
+2020/01/28  21:41    <DIR>          node_modules
+2020/01/28  21:41           414,006 package-lock.json
+2020/01/28  21:40               838 package.json
+2020/01/28  21:40    <DIR>          public
+2020/01/28  21:41               320 README.md
+2020/01/28  21:40    <DIR>          src
+               5 个文件        415,451 字节
+               5 个目录 121,918,750,720 可用字节
+
+E:\web-front\vuestudy\vue-test>
+
+
+E:\web-front\vuestudy\vue-test>npm run serve
+
+> vue-test@0.1.0 serve E:\web-front\vuestudy\vue-test
+> vue-cli-service serve
+
+ INFO  Starting development server...
+98% after emitting CopyPlugin
+
+ DONE  Compiled successfully in 16247ms                                                                         22:31:46
+
+
+  App running at:
+  - Local:   http://localhost:8080/
+  - Network: http://192.168.0.209:8080/
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
+
+
+http://localhost:8080/
